@@ -1,0 +1,10 @@
+C:\Users\eymen\source\repos\Kapsamlı_Proje\Kapsamlı_Proje\bin\Debug\Kapsamlı_Proje.exe.config
+C:\Users\eymen\source\repos\Kapsamlı_Proje\Kapsamlı_Proje\bin\Debug\Kapsamlı_Proje.exe
+C:\Users\eymen\source\repos\Kapsamlı_Proje\Kapsamlı_Proje\bin\Debug\Kapsamlı_Proje.pdb
+C:\Users\eymen\source\repos\Kapsamlı_Proje\Kapsamlı_Proje\obj\Debug\Kapsamlı_Proje.csprojAssemblyReference.cache
+C:\Users\eymen\source\repos\Kapsamlı_Proje\Kapsamlı_Proje\obj\Debug\Kapsamlı_Proje.Form1.resources
+C:\Users\eymen\source\repos\Kapsamlı_Proje\Kapsamlı_Proje\obj\Debug\Kapsamlı_Proje.Properties.Resources.resources
+C:\Users\eymen\source\repos\Kapsamlı_Proje\Kapsamlı_Proje\obj\Debug\Kapsamlı_Proje.csproj.GenerateResource.cache
+C:\Users\eymen\source\repos\Kapsamlı_Proje\Kapsamlı_Proje\obj\Debug\Kapsamlı_Proje.csproj.CoreCompileInputs.cache
+C:\Users\eymen\source\repos\Kapsamlı_Proje\Kapsamlı_Proje\obj\Debug\Kapsamlı_Proje.exe
+C:\Users\eymen\source\repos\Kapsamlı_Proje\Kapsamlı_Proje\obj\Debug\Kapsamlı_Proje.pdb
